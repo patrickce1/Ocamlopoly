@@ -1,0 +1,33 @@
+---
+# Members of your group.
+group:
+  - name: Nina Piesanen
+    netid: np364
+  - name: Patrick Evuleocha
+    netid: pce29
+  - name: Thomas Demtsu
+    netid: tsd43
+  - name: Hayden Weiss
+    netid: hnw8
+# Your PM.
+pm:
+  name: Arnav Muthiayen
+  netid: am2589
+# Set to false if you don't want your gallery entry to be public.
+publish: false
+# Pithy title
+title: "OCAMLopoly"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/hnw8/cs3110_final_project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  This project simulates a multi-player monopoly game play in the terminal. 
+  At the start of the game, a player can define how many players are playing the game. 
+  Then, players take turns taking actions like rolling dice, moving their character around the board, 
+  paying rent, buying properties, trading properties, buying houses and hotels, paying taxes, 
+  and winning the free parking lottery. Players are kicked out of the game if they go bankrupt 
+  (and their properties and assets to the player that bankrupted them) and the game ends
+   when there is only one player left. The monopoly board representation is printed into the terminal 
+   with every action.

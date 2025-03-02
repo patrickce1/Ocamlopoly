@@ -1,0 +1,958 @@
+commit 055bdf1c30ea168bc9269157d1aa51123ba68dc2
+Merge: d0b7e15 d0ff4ff
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 15:51:28 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit d0b7e15a7f5658be33a524cde67c369dcdd145dc
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 15:51:04 2024 -0400
+
+    add another card
+
+commit d0ff4ff65980f5b0a78c40aebb0f88eabd4ebcd3
+Merge: 89d8df1 2634b84
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Fri May 10 15:50:47 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit 89d8df11f9566e3df760bb0b62ad2bf1c80f816b
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Fri May 10 15:50:40 2024 -0400
+
+    Uncommented Print_board test
+
+commit 2634b84729a5b9b732935f39acc27ceccc35f330
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 15:49:19 2024 -0400
+
+    waller
+
+commit d90e3ca64de00de24be8c71d5288629615fcd0ff
+Merge: 41e1e0a 23a718f
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 15:48:47 2024 -0400
+
+    Merge remote-tracking branch 'origin/main'
+
+commit 41e1e0a2c6d8b2d11ff7617a7e1a3fa75f61437b
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 15:48:16 2024 -0400
+
+    bug fixing
+
+commit 23a718fff3d958a194be45b5ad7da653cab5f41e
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Fri May 10 15:47:36 2024 -0400
+
+    Rent tests updated
+
+commit 3fad83fec8e72efe45cf6bb0a7d35eaddccb1a0a
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Fri May 10 15:47:12 2024 -0400
+
+    More rent tests
+
+commit c1162626ab979f59df403e925e91c788bc22e270
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 15:42:59 2024 -0400
+
+    add cards
+
+commit 56b625aba77a332812bbbd5886d59bbfd267ef09
+Merge: f17ff5e b1efc44
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 15:38:05 2024 -0400
+
+    Merge remote-tracking branch 'origin/main'
+
+commit f17ff5e2ad07b8dcd09db64ef2ec90096ec370be
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 15:37:31 2024 -0400
+
+    bugfix
+
+commit b1efc445f6fb7efd201b1ad76b2b3070319fe704
+Merge: a3a506d f8f4b8a
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 15:34:50 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit a3a506dc9e506404cb255248656e30c0f4f60c56
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 15:34:25 2024 -0400
+
+    added more cards
+
+commit f8f4b8a203ae12034e3965ce83bba29c534cefac
+Merge: 1c77bbd 4a0b42b
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Fri May 10 15:34:05 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit 1c77bbd4504b81458b72a83e0c39b097c1c70325
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Fri May 10 15:33:57 2024 -0400
+
+    Another test
+
+commit 4a0b42b06c8bc628f85c02fe74cb32c44188cf51
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 15:33:17 2024 -0400
+
+    bugfixes
+
+commit 0c98802dd8e61473de292c5e466bd192c753c881
+Merge: 5a29e16 089ed73
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Fri May 10 15:24:41 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit 5a29e160b93eed5149859668584d383241bc48dd
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Fri May 10 15:20:26 2024 -0400
+
+    More tests YAAY
+
+commit 089ed730586f735e3cae3080184333cc777d63d8
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 15:20:04 2024 -0400
+
+    added another card
+
+commit b27d8e657f78ac0a64c813f50d4f64ab3ea55e5e
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 15:18:31 2024 -0400
+
+    Update INSTALL.txt
+
+commit 0a3b696e0f2821e5bae238d9f72dfec570f245d7
+Merge: 4cda7e9 537a999
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 15:12:07 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit 4cda7e9ea65c450a1a7cf3c82261f925517643f1
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 15:11:41 2024 -0400
+
+    added more cards
+
+commit 537a999c85e6b4874053349fcd6b9c326d8377d7
+Merge: 8b77aa4 a255d11
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 15:05:03 2024 -0400
+
+    Merge remote-tracking branch 'origin/main'
+
+commit 8b77aa437986c98865030d5d5783b6acafc6160a
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 15:04:40 2024 -0400
+
+    bugfixes and correct locations for docs
+
+commit a255d11b0a57a568890e41d33e33a7430a0e21bd
+Merge: f55f54d a9e8212
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 15:03:09 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit f55f54de027c6d1630c99b78543c7a25f19f0b7f
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 15:02:35 2024 -0400
+
+    added more printing to cards
+
+commit f05d18b993772031471a53d5c957fccfcf900052
+Merge: 1de70d6 a9e8212
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 15:02:29 2024 -0400
+
+    Merge remote-tracking branch 'origin/main'
+
+commit a9e8212e0b1d120b469f12229ec106b360ca84d3
+Merge: 5824291 2ccb61a
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Fri May 10 15:00:31 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit 582429139184c3d47f78431dfd49e0a36370df3e
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Fri May 10 14:59:43 2024 -0400
+
+    Updated current rent to  accomodate for scaling
+    due to color scheme
+
+commit 2ccb61a4d3153e23ce066d2941972c9b7f4ac823
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 14:49:50 2024 -0400
+
+    changed black and white to default to terminal background
+
+commit 5ae4542ca24c971d33d6ff4e05d1528fad839881
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 14:48:02 2024 -0400
+
+    reverted colors to work on MAC
+
+commit 1de70d64f8125fb3ddf74ec5a72fae49c51a0431
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 14:46:23 2024 -0400
+
+    color reversion and bug fix for MAC coloring
+
+commit 73b00534ab3fb17cc19cee271afc6cde1449c422
+Merge: a339a8e c278eb1
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 14:46:06 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit a339a8e2b5f5735c9c39f30d8da3217bb6d3e573
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 14:45:30 2024 -0400
+
+    add free parking amt to board visual
+
+commit c278eb17171fa4613338d0bd11f8061bbdd099d7
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Fri May 10 14:41:26 2024 -0400
+
+    fixed problems
+
+commit 81cad0b0521ef547bd998bc6a17cd28314bf02b2
+Merge: 04048a3 02ab5ef
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Fri May 10 14:34:21 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit 04048a33dd8278fa5ce6bc016394b8f7377a02bb
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Fri May 10 14:32:54 2024 -0400
+
+    Merge on May 10
+
+commit 3cee6ee9dc78716e632b82216edf5898392eb36d
+Merge: 9edf466 dee3c3e
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Fri May 10 14:32:45 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit 02ab5efa678aabfc9c059b55c4e97280a42e216b
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 14:31:55 2024 -0400
+
+    added AF/RI for all interface files and abstract types
+
+commit 9edf466a410132773ed9175a6bc4fbc7d15c4de1
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Fri May 10 14:27:24 2024 -0400
+
+    Added logic for double rent with multiple
+    properties with same color. Changed mortgage logic on double rent
+
+commit dee3c3e7a66265faa2a83119b024c69f9eeb64ae
+Merge: aa34471 ec7a1be
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 14:22:22 2024 -0400
+
+    Merge remote-tracking branch 'origin/main'
+
+commit aa344716d738d0d714159553ac5aaaef8a81a4a3
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 14:21:05 2024 -0400
+
+    AF/RI for board in correct location
+
+commit ec7a1be1dcb0c168bd57be7ddfc0dedfe085fc0f
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 14:19:21 2024 -0400
+
+    add to chance
+
+commit 210d33af03163cfbe0214c18f950817139397b7b
+Merge: 0636cc9 2df3879
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 14:09:53 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit 0636cc9e8f4ab7f09bf24b64c5130c76c855b145
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri May 10 14:06:01 2024 -0400
+
+    move physically to jail logic
+
+commit 2df3879aa9e50056ea619ab47518d813c6c4ab92
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Fri May 10 14:04:23 2024 -0400
+
+    AF RI documentation for board
+
+commit d164defdf49454b3d2c8770441b8f4babe9b4940
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Fri May 10 13:38:31 2024 -0400
+
+    Test Cases added, and Tile string_of_list
+
+commit 28d672d81c858eba9f40000b3bd936c35b77d5a7
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Thu May 9 12:23:37 2024 -0400
+
+    changed colors
+
+commit c36a848fa4fe04ea9934149242d7411677933939
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Sun May 5 15:18:19 2024 -0400
+
+    Added unmortgage logic and payment logic for when
+    mortgaged
+
+commit 58876638eef15932dde4ebabda1ef2630af448e3
+Merge: 7411b27 4877f8f
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Sun May 5 15:17:34 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:hnw8/cs3110_final_project
+
+commit 4877f8f237557c62095d9aadf88a7a7f05001ea6
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Tue May 7 19:48:52 2024 -0400
+
+    Added 12 Tests, and a new tostring_properties function for testing purposes.
+
+commit c185856a8c15c8f11fbc4d896b547cfb583cd391
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Tue May 7 16:56:59 2024 -0400
+
+    Refactored Player.ml and wrote specification for Board, Player, and Tile Interfaces.
+
+commit 7411b27013e6d3624f2f13523e51acd327c566e2
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Sun May 5 15:05:36 2024 -0400
+
+    Added logic for unmortgage as well as asking
+    players if they want to U or M. Additionally controlled payment ogic for mortgage and unmortgage
+
+commit 73555a829dc22434b217355b3d5951d4e3698a27
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Fri May 3 04:08:58 2024 -0400
+
+    Added Bisect to Ensure Proper Coverage
+
+commit e0f6f2826c97c7d09111b5c7a0e5bfa65e26d736
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Thu May 2 17:38:30 2024 -0400
+
+    Reframed Redundant Test
+
+commit 88ab5fdb5c0eb5cc3319386cf21aca5e5a45063b
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Thu May 2 17:35:31 2024 -0400
+
+    Added Four Tests for Board Module
+
+commit d52995598a93e33cc390c974f026501db9f67e43
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Thu May 2 12:21:14 2024 -0400
+
+    Add test cases that simulate real-game situations and interactions for Board and Player.
+
+commit ff4d4d30c4268eaece1c2390eb855bf937d596d6
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Tue Apr 30 11:06:09 2024 -0400
+
+    Expanded Player Tests and Created Board tests, and specified remaining player tests todo.
+
+commit 4b55af7d0ecffed627afc3b2f1968c0cb2c4975e
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Tue Apr 30 09:23:36 2024 -0400
+
+    Reformated Test File for better readability and organization.
+
+commit 66266ffcca5b499e5ab56c5e3e52bd34923f8383
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Tue Apr 30 08:47:28 2024 -0400
+
+    Fixed check_buy_property to allow players to purchase properties till they have no remaining money.
+
+commit 782510264bc5eb00f90eb0330f75f49cadc5b5d4
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri Apr 26 02:33:24 2024 -0400
+
+    improved some user visuals
+
+commit eecfe55dd34bc160d29d65ac14cd1aa72fb8e1e4
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Fri Apr 26 02:27:36 2024 -0400
+
+    implemented chance/community cards
+
+commit 21a969d63d3eb0fe2524319fcfa49f76d9055ca9
+Merge: 89dec39 c0745b7
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Thu Apr 18 19:21:18 2024 -0400
+
+    Merge remote-tracking branch 'origin/HEAD'
+
+commit 89dec393964336c8e795196ca9a16811b6e24fe5
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Thu Apr 18 19:20:55 2024 -0400
+
+    Colored print!!!
+
+commit c0745b7c99f6ca2570558b06b3ea9674420f0b16
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Thu Apr 18 15:21:33 2024 -0400
+
+    Updated logic for calculating net worth to only account for the mortgage value of the unmortgaged property, and not additionally using the mortgaged property as well
+
+commit 75ea8691c76b70e932d62bfcf1cb5298c474eeb3
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Thu Apr 18 01:30:19 2024 -0400
+
+    Added mortgaging to income tax and refined jail
+
+commit ba7b34913830c7b04ead7709bc2ec50bb1569652
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Wed Apr 17 18:31:17 2024 -0400
+
+    Fixed mortgage and bankruptcy for get out of jail
+
+commit d21a59f88da3cdb5dacee847bdc0af856219d2a7
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Apr 17 17:40:19 2024 -0400
+
+    Expanded Board to all monopoly properties/positions. Fixed some specs in tile.
+
+commit dd6c43cbdb882a62327914f6bd6c7157a5202106
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Thu Apr 11 06:43:19 2024 -0400
+
+    Wrote ounit testcases for player.ml and tile.ml
+
+commit 075c0a159da47877a7154cd861f8a3210aa4616b
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Apr 10 17:54:11 2024 -0400
+
+    fixed an income tax bug
+
+commit bd2800b20e9767ecd11898211de6c691c02249b2
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Apr 10 17:41:11 2024 -0400
+
+    added placeholders for chance and chest
+
+commit 9a500a6c5297aac152517d6668de50816fa6efeb
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Apr 10 17:14:41 2024 -0400
+
+    minor vis change
+
+commit eccf91e69604d05d0637770abd126a60fe36a846
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Apr 10 17:13:19 2024 -0400
+
+    added pass go logic
+
+commit 412eee9a2b34b5a8a3ab845385f24a329e085dda
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Apr 10 16:52:33 2024 -0400
+
+    implemented income tax
+
+commit fde95119d9e41ed973a4955435bc280cb5a08504
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Apr 10 16:16:03 2024 -0400
+
+    added free parking logic
+
+commit cb8214ad1134d0f03d762bf857958fc3bcfefcfb
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Sun Apr 7 07:31:52 2024 -0400
+
+    fixed minor formatting for buying properties
+
+commit 02c63dea91efdc4670b3f12a6de85b54a23ea89b
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Fri Apr 5 11:26:10 2024 -0400
+
+    Fixed bugs in payment
+
+commit cc39934ac780f31e30cf07d5dab7a14a31b26b4f
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Fri Apr 5 10:34:40 2024 -0400
+
+    Removed initial player list and updated with the boards player list state and methods
+
+commit 89613247d0b9108a474a84e4e0da9b94a6e3fb47
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Thu Apr 4 14:10:50 2024 -0400
+
+    Added logic for mortgage, bankruptcy, and keeping the current state of the players that are in the game. Edits were made to every module, and the type of the board module was changed to a record that now also stores the current players. Also now logic for checking that people have enough money to pay.
+
+commit 24b83a0650aae16bc1578fef5e4032123e85f640
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Tue Apr 2 21:24:42 2024 -0400
+
+    Added logic for handling when a player doesnt have enough for payent. Set up for mortgage and set up for bankruptcy
+
+commit fd9ba52228403eb53922b04e26cc735be5396989
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Thu Mar 28 23:37:26 2024 -0400
+
+    typo in go fixed
+
+commit 713ec114f2614ff96219e9e8813da0e1e56700bd
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Thu Mar 28 13:49:17 2024 -0400
+
+    added land on go logic. pass (but not land on) go still needs to be implemented
+
+commit 22660f150b9760d0dd8a6b3994c1f679d8ec264a
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Thu Mar 28 13:41:03 2024 -0400
+
+    fix some doubles logic, fix some jail user visuals
+
+commit 2f47fed9e73c2ea9c74c8b21f8244994736bc7c4
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Thu Mar 28 13:20:34 2024 -0400
+
+    fixed buy property so that it assigns an owner to the bought property AND fixed some jail roll logic and user interaction
+
+commit 3a684849beed41dba42b7e363d50b1a390d8ea8a
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Thu Mar 28 13:04:13 2024 -0400
+
+    added documentation for jail
+
+commit 79b4a33b836c2b407afb5a7ce571bc6ad23e06ad
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Thu Mar 28 12:57:12 2024 -0400
+
+    added go to jail, in jail, and get out of jail logic
+
+commit 03d40124f2c8b032d6182217466f36d93a2ac201
+Merge: cc3e145 535d4d8
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Thu Mar 28 11:54:51 2024 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit cc3e1452d7155d885f5040d90077c87a49e6ffe8
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Thu Mar 28 11:54:06 2024 -0400
+
+    added functionality to turn so that you get another turn if you roll doubles. on the third doubles, you get sent to jail. jail not yet implemented
+
+commit 535d4d89b2f2b30a5801ca74204ecda31bb84e73
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 22:33:11 2024 -0400
+
+    gitlog
+
+commit 5b80ad24563956c14ad1e54c8b6b5e09cce1f742
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Wed Mar 27 22:32:40 2024 -0400
+
+    FInal MS2
+
+commit 70228296fd3ea10248c68b70bfc06f2fde7e52c4
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 21:49:20 2024 -0400
+
+    wrote install.txt
+
+commit 4015956781e8c0cd107bd157cd292c34d0564f8a
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 21:31:11 2024 -0400
+
+    added a interaction comment
+
+commit 9842029c5d3bd0fc63bc20bb62e7f80f75d17a82
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 21:28:47 2024 -0400
+
+    PRINT AND MOVE WORKS!!!
+
+commit f2d35f981b0c8cf9c6916fd2672139b886e58200
+Merge: 1b195ed 5e68474
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 21:03:13 2024 -0400
+
+    Merge remote-tracking branch 'origin/HEAD'
+
+commit 1b195ed3e13d1dda08b206049bd23b4f41c002ec
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 21:03:00 2024 -0400
+
+    minor changes
+
+commit 5e68474a1610fbb5a033d52ef6fb8d5b604772ed
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 21:01:18 2024 -0400
+
+    fixed some user formatting
+
+commit acc18f91aebdd40f80b35146b85f2d1f39e236b6
+Merge: 7363eb8 6b0569a
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 20:53:51 2024 -0400
+
+    Merge remote-tracking branch 'origin/HEAD'
+
+commit 7363eb8fa715cdf7c3513185b85984a83910eff1
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 20:53:22 2024 -0400
+
+    print is fixed!!!
+
+commit 6b0569a59e331c8cee94aba12bed7706d60fd438
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 20:52:39 2024 -0400
+
+    fixed user prompting formatting
+
+commit bea4ed2ee5761de74465611881cc68add9cc3e27
+Merge: 4ad5211 60626b7
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 20:27:10 2024 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 4ad52111b0d831ff10a0ef23238e99892a655ddb
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 20:26:45 2024 -0400
+
+    added documentation and simplified player functions
+
+commit 60626b788d609573de86cee8d563478e61e54f80
+Merge: 2a34f3f 70e4585
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 20:22:00 2024 -0400
+
+    Merge remote-tracking branch 'origin/HEAD'
+
+commit 2a34f3f2c1bac16f1d7f301cda33a9eceb75a038
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 20:21:46 2024 -0400
+
+    finished version of print (needs testing)
+
+commit 70e45859548dfd4d945fb22f2d41213990d85fbf
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 20:06:04 2024 -0400
+
+    tile_action for Street, Utility, and Railroad are the same. removed excess pattern matching
+
+commit 26b11e8f06704a39b3f58e91e64020f33130e5a1
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 20:03:01 2024 -0400
+
+    changed options across all files
+
+commit 0fc1a6efa0f92337c5f838fde8c687b43365e798
+Merge: 21024e5 697fd7a
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 19:43:11 2024 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 21024e54dc8b4edea470cde43c0d346990a0f688
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 19:42:45 2024 -0400
+
+    take out options
+
+commit 697fd7acee5cc1f6c47edc8484c082d9603569a2
+Merge: 2754ad8 21b622b
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 19:29:10 2024 -0400
+
+    Merge remote-tracking branch 'origin/HEAD'
+
+commit 2754ad8e7613e5bece67911c063595282137d6cd
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 19:28:12 2024 -0400
+
+    print progress
+
+commit 21b622bd1e34335a7efa0450772265b783cea488
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 18:35:47 2024 -0400
+
+    fix some variant pattern matching
+
+commit a67eb0f138cec3e2ec1f886447d374588d120f88
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 18:23:36 2024 -0400
+
+    fixed circular dependency
+
+commit e364209f3cc9dfc55e06ad6b211d9c8383394763
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 16:56:54 2024 -0400
+
+    fixed creat_all_players
+
+commit b1fa63ff511b563d498a1bf4ea61033ad540e569
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 16:53:54 2024 -0400
+
+    moved some action functionality to turn
+
+commit ca736eef91c31c763b291f36fa882e794a916bf1
+Merge: 707b03b bd65779
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 16:02:03 2024 -0400
+
+    resolve merge conflict
+
+commit 707b03b97c762627eab1c3866cfb88a719fae2e4
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 16:00:24 2024 -0400
+
+    integration
+
+commit bd65779c6b25314fbdfabc9e96c88e3611b5670a
+Merge: f5725df 3bd94c9
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 15:39:54 2024 -0400
+
+    funny merge stuff Nina and I were making basically the same changes at the same time
+
+commit f5725df836767a449fd471ac85bf6cfd71d644df
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 15:33:14 2024 -0400
+
+    Small change to main and tile fixing some abstraction issues (using accessors, etc.)
+
+commit 3bd94c930297611cd827701ddfc91d92d89ab34b
+Merge: d265732 03a1499
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 15:32:10 2024 -0400
+
+    merged conflicts
+
+commit d26573202f5823ee54cc4b8f47804852d2a9ac90
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 15:27:14 2024 -0400
+
+    fixed action logic
+
+commit 03a149941cf80933120b18cd4d1f0afd26177b42
+Merge: 94b2aed bd876a4
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 15:25:21 2024 -0400
+
+    Implemented Move in Board and some minor fixes in player and main.
+    Note: Main has some minor errors in its use of game module. Will fix later
+
+commit 94b2aed0be739cfd6976456c945514598c98a1c1
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 15:21:09 2024 -0400
+
+    Implemented Board function to move players, minor fixes in other files
+    *Module function calls in main use invalid syntax
+
+commit bd876a472864acd2247ad870ab3e96a79e875b07
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 14:59:42 2024 -0400
+
+    fixed some main type annotation
+
+commit 9dd3a93c538be5ba949fbea326547273ec1d87ad
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 14:54:15 2024 -0400
+
+    added type annotation to main functions
+
+commit 3f446273f7e4f9bfb86f6cc632a58dc023212702
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 14:41:18 2024 -0400
+
+    added board field to main functions
+
+commit 27380162650baec77712cea13c58defe143f114f
+Merge: e65ac70 ad883cf
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 14:01:54 2024 -0400
+
+    Merge remote-tracking branch 'origin/HEAD'
+
+commit e65ac7016629557c3c2fadca516352c9f0561c1e
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Wed Mar 27 13:42:05 2024 -0400
+
+    Progress on Board and Tile. Slight tweeks to player
+
+commit ad883cf9c189642dd0e911be20c935be3186fe20
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Wed Mar 27 12:50:08 2024 -0400
+
+    added initial yaml file
+
+commit 59fed048ce235acdcae465b1c4bdf55c6759f2c6
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Tue Mar 26 21:12:50 2024 -0400
+
+    minor changes
+
+commit c7a3527bc743ce42c2db10be0b7b9671a0c9bc21
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Tue Mar 26 21:03:51 2024 -0400
+
+    added install.txt file. empty so far
+
+commit bf5dce2da327dd20454ae2a712daeb7424394937
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Tue Mar 26 19:30:18 2024 -0400
+
+    small changes
+
+commit d92cc69907df1608f542e9a162685e1611943f0b
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Tue Mar 26 19:18:41 2024 -0400
+
+    changed move_player
+
+commit 123fe1ce9ddcaadce207321d0c1550e217f8ad45
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Tue Mar 26 18:19:25 2024 -0400
+
+    made small changes
+
+commit d0cb741e74776f1bdfc00a959501e6ba788621a1
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Tue Mar 26 18:14:18 2024 -0400
+
+    added documentation
+
+commit b182e351f781743f8ac68c390a0bb7720ab24ed0
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Tue Mar 26 17:59:37 2024 -0400
+
+    adjusted player initilization
+
+commit 145a247efabfeb299591c420300d94333c8a01c9
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Tue Mar 26 17:55:32 2024 -0400
+
+    added rent paying logic
+
+commit a4a7cc008074aa2baa0c4b614a996f3cbb461027
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Tue Mar 26 17:36:15 2024 -0400
+
+    adjusted action logic
+
+commit 007cabf054a195879d3a9f65b642e0a4e657d663
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Tue Mar 26 17:30:47 2024 -0400
+
+    added initial game play logic
+
+commit e30720a672a8e42b33280cc7e31e6d5e6d5817a4
+Author: Patrick Evuleocha <pce29@cornell.edu>
+Date:   Tue Mar 26 14:33:23 2024 -0400
+
+    changes to board and tile
+
+commit 8839c7914266aa6dce22ec0863a68a4f9c01bec6
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Tue Mar 26 10:30:37 2024 -0400
+
+    Early progress on Tile and Board. Slight modification to Player: location is a tile rather than an int
+
+commit a2265817e4b0c7a463cff8748f77403bcfae7b4a
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Mon Mar 25 18:04:33 2024 -0400
+
+    -Implemented position, buy_property and sell_property in Player.ml
+    
+    -Implemented cost, add/remove_player, and current_rent functions in Tile.ml
+    
+    -Refactored Tile.ml and Player.ml to break circular dependency.
+    
+           -Changed players_on type from Player.t list to int list
+    
+           -Changed prop_owner type from Player.t to int option
+    
+    - Added compiler directive to skip warning flags -37, -69, -33 (unused parameters/fields/open).
+
+commit b18e8e10657b8226660cc70438e9bc3aadac2379
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Sun Mar 24 20:48:03 2024 -0400
+
+    Fixed abstraction issues in player.mli.   - removed exposed implementation
+
+commit 2d7724c4a3858cc3659d720c57c1664d68c850bb
+Author: Thomas Demtsu <tsd43@cornell.edu>
+Date:   Sun Mar 24 20:33:04 2024 -0400
+
+    Implemented Base for Player compilation unit and updated ocamlformat.
+
+commit 85f72291b17e16e1a13d27998df6c4cc96a71fe7
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Sat Mar 23 16:12:02 2024 -0400
+
+    added pseudocode for logic
+
+commit a5be7cfab383338c973232b7de35e5a84ade5fe0
+Author: Nina Piesanen <np364@cornell.edu>
+Date:   Sat Mar 23 15:04:55 2024 -0400
+
+    Minor change to test github
+
+commit ea7a27dff8d52421f45fe94e24f9aef2fcd63ae1
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Sat Mar 23 15:02:42 2024 -0400
+
+    Possible starting implementation
+
+commit 52acbf32dee6c11665e99fddd87a37a38248c665
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Thu Mar 21 12:11:02 2024 -0400
+
+    Initialized dune project. Readme untouched.
+
+commit 631db58e019a8a041053273841548b7fdc7665a8
+Author: tsd43 <tsd43@cornell.edu>
+Date:   Mon Mar 11 17:43:45 2024 -0400
+
+    Update README.md
+
+commit 9ceb1b1c55502498e8208a1044ea30f61e955701
+Author: pce29 <14785+pce29@users.noreply.github.coecis.cornell.edu>
+Date:   Mon Mar 11 17:03:54 2024 -0400
+
+    Update README.md
+
+commit dff45dea08c02395b195afbcc884ac427ecc0aa4
+Author: np364 <16626+np364@users.noreply.github.coecis.cornell.edu>
+Date:   Mon Mar 11 16:54:05 2024 -0400
+
+    Update README.md
+
+commit f6367e87d40f4d66dc7e7e0205d1b4e036924274
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Mon Mar 11 16:30:38 2024 -0400
+
+    added name/netid
+
+commit 4c1d59e0083cc4dbf09300c86fdfc95afdea4fa6
+Author: Hayden Weiss <hnw8@cornell.edu>
+Date:   Mon Mar 11 16:26:40 2024 -0400
+
+    Initial commit

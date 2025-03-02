@@ -1,0 +1,9 @@
+Download the root directory from github (It contains a folder for bin, lib, test,
+ and a handful of other files).
+
+ In the console, navigate to the location of this root directory.
+
+ Then, run the command [ dune exec bin/main.exe ]
+
+ This will start the game, allowing you to play. All game rules and gameplay features
+ will be explained by the text-interface. Enjoy!
